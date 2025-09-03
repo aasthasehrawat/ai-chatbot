@@ -19,20 +19,22 @@ This project is a real-time AI chatbot built using Flask, HTML, CSS, and JavaScr
 
 ## Directory Structure
 
+```text
 project/
 ├── static/
-│ ├── css/
-│ │ └── styles.css
-│ ├── images/
-│ │ ├── ai_logo.png
-│ │ └── user_logo.png
-│ └── js/
-│ └── scripts.js
+│   ├── css/
+│   │   └── styles.css
+│   ├── images/
+│   │   ├── ai_logo.png
+│   │   └── user_logo.png
+│   └── js/
+│       └── scripts.js
 ├── templates/
-│ └── index.html
+│   └── index.html
 ├── app.py
 ├── requirements.txt
 └── vercel.json
+
 
 
 ## Getting Started
