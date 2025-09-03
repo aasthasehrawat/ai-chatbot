@@ -104,6 +104,6 @@ Fork the repository, create a feature branch, and submit pull requests. Contribu
 
 ## Contact
 
-**aasthasehrawat**  
-Email: aasthasehrawat2@gmail.com  
-GitHub: [https://github.com/aasthasehrawat](https://github.com/aasthasehrawat)
+**[aasthasehrawat](https://github.com/aasthasehrawat)**  
+Email: aasthasehrawat2@gmail.com
+  
