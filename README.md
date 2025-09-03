@@ -33,7 +33,7 @@ project/
 │   └── index.html
 ├── app.py
 ├── requirements.txt
-└── vercel.json
+└── vercel.json```
 
 ## Getting Started
 
