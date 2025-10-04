@@ -1,4 +1,4 @@
-# NeoChat
+# AI-Chatbot
 
 This project is a real-time AI chatbot built using Flask, HTML, CSS, and JavaScript, leveraging the Google Gemini AI API for generating responses. The application features a modern UI with a chat interface similar to popular chatbots, complete with user-friendly features like saving and deleting chats.
 
